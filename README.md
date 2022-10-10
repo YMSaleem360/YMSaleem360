@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @YMSaleem360
-- 👀 I’m interested in learning how to create
-Apps,Ethical hacking and defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks
+- 👀 I’m interested in learning how to create and develop
+Apps and websites,
+Ethical hacking,
+ artificial intelligence,
+ breaking and defending computers, servers, mobile devices, electronic systems, networks, and data
 - 🌱 I’m currently learning computer Science.
 - 💞️ I’m looking to collaborate on tech projects 
 - 📫 How to reach me via ymsaleem360@gmail.com,
